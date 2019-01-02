@@ -1,0 +1,2 @@
+Download football season csv files from football-data.co.uk and put in ./data/ directory.
+Rename csv files to the name of the season e.g 17_18.csv for last seasons data file
